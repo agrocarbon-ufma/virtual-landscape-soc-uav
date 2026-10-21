@@ -1,0 +1,10 @@
+numpy>=1.24
+pandas>=2.0
+scipy>=1.10
+scikit-learn>=1.3
+geopandas>=1.0
+rasterio>=1.3
+gstools>=1.5
+matplotlib>=3.7
+shapely>=2.0
+jupyterlab

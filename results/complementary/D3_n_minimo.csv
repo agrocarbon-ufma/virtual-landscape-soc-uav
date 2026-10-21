@@ -1,0 +1,9 @@
+area,,VN,VN,ILP,ILP,IPF,IPF
+modelo,,RF,Ridge,RF,Ridge,RF,Ridge
+sinal,R2_alvo,,,,,,
+linear,0.3,300,50,150,150,>300,150
+linear,0.5,50,50,150,100,200,100
+linear,0.7,20,30,30,50,50,30
+nonlinear,0.3,>300,>300,300,>300,>300,>300
+nonlinear,0.5,200,>300,200,150,>300,>300
+nonlinear,0.7,150,>300,200,300,150,>300

@@ -1,0 +1,5 @@
+Signal strength,NV RF,NV Ridge,ICL RF,ICL Ridge,ILF RF,ILF Ridge
+R² = 0.3,>300,100,150,100,>300,75
+R² = 0.5,75,30,100,50,300,75
+R² = 0.7,20,20,75,50,20,20
+Observed,>300,>300,>300,>300,>300,>300

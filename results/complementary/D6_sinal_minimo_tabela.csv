@@ -1,0 +1,5 @@
+sinal,modelo,VN,ILP,IPF
+linear,RF,0.7,0.9,0.8
+linear,Ridge,0.6,>0.9,0.8
+nonlinear,RF,>0.9,>0.9,>0.9
+nonlinear,Ridge,>0.9,>0.9,>0.9

@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite them as below and cite the associated article."
+title: "Code and data for: Virtual landscapes reveal when drone imagery can map soil organic carbon in integrated farming systems of the Brazilian Cerrado"
+type: software
+version: 1.0.0
+date-released: 2026-11-01
+license: MIT
+repository-code: "https://github.com/agrocarbon-ufma/virtual-landscape-soc-uav"
+authors:
+  - family-names: "Sousa Júnior"
+    given-names: "Antonio Deusimar Oliveira de"
+    affiliation: "Federal University of Maranhão (UFMA), Chapadinha, Brazil"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+  - family-names: "Santos"
+    given-names: "Gustavo André de Araújo"
+    affiliation: "Federal University of Maranhão (UFMA), Chapadinha, Brazil"
+    email: "gustavo.andre@ufma.br"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+keywords:
+  - soil organic carbon
+  - unmanned aerial vehicle
+  - virtual landscape
+  - sample size
+  - sampling design
+  - Cerrado

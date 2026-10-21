@@ -1,0 +1,14 @@
+{
+  "title": "Code and data for: Virtual landscapes reveal when drone imagery can map soil organic carbon in integrated farming systems of the Brazilian Cerrado",
+  "upload_type": "software",
+  "description": "Python code and soil data (66 sampling points, 0–30 cm) used to quantify soil organic carbon stocks under native Cerrado vegetation, integrated crop–livestock and integrated livestock–forest systems in eastern Maranhão, Brazil, to evaluate UAV spectral indices and terrain attributes as predictors, and to build virtual landscapes for testing sample size, model and sampling design. Code is released under the MIT licence and data under CC BY 4.0.",
+  "creators": [
+    {"name": "Sousa Júnior, Antonio Deusimar Oliveira de", "affiliation": "Federal University of Maranhão (UFMA)"},
+    {"name": "Santos, Gustavo André de Araújo", "affiliation": "Federal University of Maranhão (UFMA)"}
+  ],
+  "license": "MIT",
+  "keywords": ["soil organic carbon", "unmanned aerial vehicle", "virtual landscape", "sample size", "sampling design", "Cerrado"],
+  "language": "eng",
+  "grants": [],
+  "notes": "Funding: CAPES (Finance Code 001); FAPEMA (CARBOSCAN, APP-05024/23); EMAP and Port of Itaqui; CNPq (SpectralCarbon, 405484/2023); Embrapa."
+}
